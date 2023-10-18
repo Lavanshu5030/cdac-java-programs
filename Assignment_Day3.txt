@@ -1,0 +1,25 @@
+1. Create Class Employee with id and address, use date class and Person class to display name and birthdate, also use account class to display his account balance.
+
+2. Create class Area, write a methods to calculate area of triangle, area of circle, area of square, area of rhombus and try to access non-static methods.
+
+3. Create class Bank, write methods savings(),withdrawal(),fixedDeposit()
+rate of interest are diffrent for savings and fixed deposits. Once rate of intereset in changed should be applied to respective accounts.
+
+  
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+ 
+
+
+   

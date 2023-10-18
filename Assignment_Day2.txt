@@ -1,0 +1,10 @@
+ 1. Create A Student Class with fields id,age and name and print default values without initializing.
+2. Create A Class Box write method to calculate area of circle,area of cube,area of rectangle(Note use parameterized methods)
+3. Write a program to find largest element in an array.
+4. Write a java program to sort all elements in an array.
+5. Write a java program to reverse elements in an array.
+6. Write a java program to find find Divisors of a given number.
+7. Write a java program to search given element is present in and array and print its position.
+8. Write a java program to print 3x3 matrix.
+9. Create A Class Box write method to calculate area of circle,area of cube,area of rectangle(Note: use non-parametrized methods)
+10. Write a class to calculate fixed deposit of a customer after 3 years where rate of interest=7.2%.Display the Total amount he will recieve after FD matures.
