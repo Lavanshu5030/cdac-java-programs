@@ -1,0 +1,74 @@
+1. Write a program to find factorial of a number.
+2. Write a progrm to find the given number is odd or even
+3. Write a program to find give numbet is prime.
+4. Write a program to check number is palindrome or not.
+5. wirte a program to print
+******
+*    *
+*    *
+*    *
+*    *
+******
+
+6. Write a program to print number pattern
+     1 
+    2 2 
+   3 3 3 
+  4 4 4 4 
+ 5 5 5 5 5 
+6 6 6 6 6 6 
+
+7. Write a Java Program to print pattern 
+Number-changing pyramid 
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+11 12 13 14 15 
+16 17 18 19 20 21 
+
+8. Wrie a java program to convert binary number to decimal.
+
+9. Write a Java Program to print pattern 
+0-1 Triangle
+1 
+0 1 
+1 0 1 
+0 1 0 1 
+1 0 1 0 1 
+0 1 0 1 0 1 
+
+10. Write a java program to print 
+*          *
+**        **
+***      ***
+****    ****
+*****  *****
+************
+************
+*****  *****
+****    ****
+***      ***
+**        **
+*          *
+
+11. Write a java program to print 
+     *
+    * *
+   *   *
+  *     *
+ *       *
+***********
+
+12.  Write a java program to print 
+     *
+    * *
+   *   *
+  *     *
+ *       *
+*         *
+ *       *
+  *     *
+   *   *
+    * *
+     *

@@ -1,0 +1,3 @@
+1. Create a class Person1 with attributes name, Address. Create a Class date with dd,mm,yy attributes. Create class demo with main method and print name address and joining date of Person using this keyword.
+2. Create a class Bank, create method deposit() in SavingsAccount class, create another method deposit with int parameter pass amount value to it. Print all data of Savings account class.
+3. Create a class Programmer with attribute id,speciliazation,salary declare contructors call name and address from Person class. 
