@@ -204,21 +204,6 @@ public class LinkedList {
 			}
 			
 		}while(choice != 8);
-
-
-
-	
-
-
-
-
-
-		
-		//You can call print function only one time...because after printing the LinkedList 
-		// itr becomes null:
-		
-
-
 	}
 
 }
